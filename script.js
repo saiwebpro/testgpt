@@ -14,7 +14,7 @@ function sendToChatGPT() {
   };
 
   let headers = {
-    Authorization: "Bearer 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",
+    Authorization: "Bearer sk-proj-JoipPhWrqpHBAgygtCdCT3BlbkFJwgzM93hN6gToC5xzYn9t",
   };
 
   axios
